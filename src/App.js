@@ -1,5 +1,6 @@
 import React from "react";
 import "./styles.css";
+import "./tailwind.css";
 import { Card } from "./components/Cards";
 import { Layout } from "./components/Layout";
 
